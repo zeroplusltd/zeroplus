@@ -1,5 +1,10 @@
 {
   "name": "Workbook",
+  "type": "Deployment",
+  "Channel":"Stable",
+  "Package": ["tar.gz", ".zip"],
+  "Runtime": "LEM",
+  "Size":"15 MB",
   "latest": {
     "version": "2.4.2",
     "releaseDate": "2026-03-02"
