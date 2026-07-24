@@ -5,8 +5,10 @@
   "package": ["tar.gz", ".zip"],
   "runtime": "LEM",
   "size":"15 MB",
+  "updatedAt": "July 21, 2026",
   "latest": {
     "version": "2.4.2",
+    "link": "https://zeroplus.ltd",
     "releaseDate": "2026-03-02"
   },
   "versions": [
